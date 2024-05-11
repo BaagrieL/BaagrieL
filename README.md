@@ -1,5 +1,5 @@
 ### Hello World! 👋 Meu nome é Gabriel
-sou estudante de informática e apaixonado por programação e tecnologia.
+sou estudante de informática e apaixonadinho por programação.
 
 <br>
 <br>
