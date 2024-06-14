@@ -31,8 +31,9 @@ sou estudante de informática e apaixonadinho por programação.
 <br>
 
 ## 🌟 Projetos em Destaque
-- [yugioh-jokenpo-game](https://github.com/BaagrieL/yugioh-jokenpo-game): Jogo de pedra, papel, tesoura temático do Yu-Gi-Oh!
-- [Pizzaria Delícia](https://baagriel.github.io/Pizzaria-Delicia): Pizzaria fictícia para apresentar na feira dos cursos
+- [yugioh-jokenpo-game](https://github.com/BaagrieL/yugioh-jokenpo-game){:target="_blank"}: Jogo de pedra, papel, tesoura temático do Yu-Gi-Oh!
+- [Pizzaria Delícia](https://github.com/BaagrieL/Pizzaria-Delicia){:target="_blank"}: Pizzaria fictícia para apresentar na feira dos cursos
+
 
 
 ## 📫 Contato
